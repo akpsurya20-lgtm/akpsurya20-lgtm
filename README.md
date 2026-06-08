@@ -1,4 +1,4 @@
- Hi im Surya AKP
+ Hi, I'm Surya AKP
 
 Electronics & Communication Engineering Student | Embedded Systems | Intelligent Systems
 
