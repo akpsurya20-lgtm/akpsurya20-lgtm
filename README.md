@@ -1,86 +1,87 @@
- Hi, I'm Surya AKP
+👋 Hi, I'm Surya AKP
 
-Electronics & Communication Engineering Student | Embedded Systems | Intelligent Systems
-
-«Building technical depth, practical experience, and impactful projects, one commit at a time.»
+🎓 Electronics & Communication Engineering Student | 🤖 Embedded Systems | 🧠 Intelligent Systems
 
 ---
 
-About Me
+🔗 🚀 About Me
 
-I am an Electronics & Communication Engineering student with a growing interest in the convergence of hardware, software, and intelligent systems.
+I am an Electronics & Communication Engineering student passionate about the convergence of hardware, software, and intelligent systems.
 
-My interests span embedded systems, IoT, web technologies, artificial intelligence, and data-driven applications. I enjoy transforming concepts into working solutions, whether through microcontroller-based systems, sensor-driven projects, or applications that leverage real-world data.
+My interests span embedded systems, IoT, artificial intelligence, web technologies, and data-driven applications. I enjoy transforming concepts into practical solutions through engineering projects that bridge the physical and digital worlds.
 
-Currently, I am focused on building a strong engineering foundation while developing projects that demonstrate problem-solving, system design, technical curiosity, and continuous improvement.
+Currently, I am focused on building a strong engineering foundation while developing projects that showcase problem-solving, system design, technical curiosity, and continuous learning.
 
----
-
-🚀 Current Focus
-
-- Embedded Systems & Arduino Development
-- Web Development Fundamentals
-- Data Structures & Problem Solving
-- IoT and Sensor-Based Applications
-- Artificial Intelligence & Intelligent Technologies
-- Technical Project Development
+- 🔬 Interested in Embedded Systems, IoT, and Intelligent Technologies
+- 🧠 Passionate about building practical, real-world engineering solutions
+- 📚 Continuously learning through projects, certifications, and experimentation
+- 🌱 Expanding technical knowledge across software, electronics, and automation
+- 🎯 Focused on developing skills that combine hardware, software, and data-driven decision making
 
 ---
 
-🎓 Education
+🔗 💡 Currently Working On
+
+- 🛠️ Embedded Systems & Arduino Development
+- 🌐 Web Development Fundamentals
+- 🧩 Data Structures & Problem Solving
+- 📡 IoT and Sensor-Based Applications
+- 🤖 Artificial Intelligence & Intelligent Technologies
+- 📚 Continuous Technical Learning & Project Building
+
+---
+
+🔗 🎓 Education
 
 Bachelor of Technology (B.Tech)
 Electronics & Communication Engineering
 
 ---
 
-🏆 Certifications & Achievements
+🔗 🏆 Certifications & Achievements
 
-Technical Certifications
+🥇 Technical Certifications
 
 NPTEL — The Joy of Computing Using Python
 
 Elite Certification | IIT Madras | Jan – Apr 2026
 
-- Successfully completed a 12-week NPTEL course in Python programming
-- Strengthened fundamentals in programming, problem-solving, and computational thinking
+- Successfully completed a 12-week NPTEL course in Python Programming
+- Strengthened fundamentals in programming, computational thinking, and problem-solving
 
 NASSCOM FutureSkills Prime — Digital 101
 
-Gold Category | Mar 2026
+Gold Category (94%) | Mar 2026
 
-- 30-hour industry-oriented program covering digital technologies, cybersecurity, web fundamentals, and emerging technologies
-- Achieved 94% score, earning Gold Category recognition
+- Industry-oriented program covering digital technologies, cybersecurity, web fundamentals, and emerging technologies
 
 NxtWave — AI for Students: Build Your Own Generative AI Model
 
 Jan 2025
 
-- Participated in a hands-on workshop introducing generative AI concepts and practical machine learning workflows
+- Hands-on exposure to Generative AI concepts and machine learning fundamentals
 
----
-
-Technical Events & Project Showcases
+🎤 Technical Events & Participation
 
 INQUA'25 National Level Techfest
 
-College of Engineering Trikaripur | Oct 2025
+📍 College of Engineering Trikaripur | Oct 2025
 
-- Contributed to the organization and execution of a national-level technical festival
-- Presented an Electronics & Communication Engineering project before students and faculty
+- Project showcase participant
+- Contributed to organizing a national-level technical festival
 
 IEEE WIE AG Talk Session
 
-Mar 2026
+🎙️ Mar 2026
 
 - Participated in the professional development session:
   "Your Seat at the Table: Confidence, Growth & Career Success"
 
 ---
 
-🛠 Technical Skills
+🔗 🛠 Tech Stack
 
-Programming Languages
+👨‍💻 Languages
 
 - C
 - Python
@@ -88,7 +89,7 @@ Programming Languages
 - CSS
 - JavaScript
 
-Tools & Platforms
+⚙️ Tools & Platforms
 
 - Git
 - GitHub
@@ -96,33 +97,33 @@ Tools & Platforms
 - Arduino IDE
 - Google Colab
 
-Domains of Interest
+🎯 Areas of Interest
 
 - Embedded Systems
 - Internet of Things (IoT)
-- Automotive Technology
+- Artificial Intelligence
 - Functional Safety
+- Automotive Technology
 - Data Analytics
 - Intelligent Control Systems
-- Artificial Intelligence
 
 ---
 
-📂 Featured Projects
+🔗 🔍 Featured Projects
 
 🌦 Weather Dashboard
 
 Real-time weather insights powered by API integration.
 
-A responsive web application that retrieves and displays real-time weather information through API connectivity.
+A responsive web application that retrieves and displays live weather information through API connectivity.
 
-Key Features
+Highlights
 
-- City-based weather search
-- Live temperature monitoring
-- Humidity tracking
-- Responsive user interface
-- REST API integration
+- 🌡️ City-based weather search
+- 💧 Live humidity tracking
+- 📈 Real-time temperature monitoring
+- 📱 Responsive user interface
+- 🔗 REST API integration using OpenWeather
 
 Tech Stack: HTML, CSS, JavaScript, OpenWeather API
 
@@ -134,37 +135,38 @@ Detecting, tracking, and visualizing objects through embedded technology.
 
 A radar-inspired object detection system built using Arduino Uno, ultrasonic sensing, and servo motor control.
 
-Key Features
+Highlights
 
-- Real-time object detection
-- Angular scanning mechanism
-- Sensor-based distance measurement
-- Position visualization using Processing
+- 🎯 Real-time object detection
+- 📡 Angular scanning mechanism
+- 📏 Distance measurement using ultrasonic sensing
+- 🖥️ Position visualization through Processing
 
 Tech Stack: Arduino Uno, C, Ultrasonic Sensor, Servo Motor, Processing
 
 ---
 
-🎯 What I'm Building Toward
+🔗 🎯 What I'm Building Toward
 
-- Competitive engineering internships
-- Advanced embedded and intelligent systems projects
-- Higher studies and research opportunities in Germany
-- A career at the intersection of electronics, software, and intelligent technologies
+- 🚀 Competitive engineering internships
+- 🔬 Advanced embedded and intelligent systems projects
+- 🎓 Higher studies and research opportunities in Germany
+- 🏭 A career at the intersection of electronics, software, and intelligent technologies
 
 ---
 
-📈 GitHub Journey
+🔗 📈 GitHub Journey
 
 📚 Learning continuously
 🔨 Building publicly
 🚀 Improving with every project
+🌱 Expanding technical depth one project at a time
 
-This portfolio is a work in progress. New projects, certifications, experiments, and technical explorations will continue to be added as my engineering journey evolves.
+This portfolio is actively evolving with new projects, certifications, experiments, and engineering challenges.
 
 ---
 
-🤝 Connect With Me
+🔗 🤝 Connect With Me
 
 📧 Email: akpsurya20@gmail.com
 
@@ -172,21 +174,8 @@ This portfolio is a work in progress. New projects, certifications, experiments,
 
 ---
 
-## 💭 Philosophy
+🔗 🌱 Philosophy
 
-> Great engineers aren't built in a semester. They're built project by project, failure by failure, and improvement by improvement.
+I believe engineering excellence is built through curiosity, consistency, and hands-on learning. Every project is an opportunity to refine technical skills, strengthen problem-solving abilities, and better understand how technology interacts with the world around us.
 
-<!--
-**akpsurya20-lgtm/akpsurya20-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+«"Great engineers aren't built in a semester. They're built project by project, failure by failure, and improvement by improvement."»
