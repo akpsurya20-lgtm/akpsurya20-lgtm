@@ -129,6 +129,21 @@ Tech Stack: HTML, CSS, JavaScript, OpenWeather API
 
 ---
 
+### ⚙️ NUM_CONVERT
+Real-time multi-base number system converter with instant cross-base translation.
+
+**Highlights**
+- 🔢 Supports Hexadecimal, Decimal, Octal, Binary
+- ⚡ Real-time conversion across all bases
+- 📋 One-click copy to clipboard
+- 🌓 Dark & Light theme toggle
+- 📱 Responsive design
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+🔗 [Live Demo on CodePen](https://codepen.io/suryaakp/pen/rajVdYj) | [Source Code](https://github.com/akpsurya20-lgtm/num-convert)
+---
+
 📡 Arduino Mini Radar System
 
 Detecting, tracking, and visualizing objects through embedded technology.
