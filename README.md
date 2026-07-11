@@ -1,196 +1,178 @@
-👋 Hi, I'm Surya AKP
+<h1>
+  Hi, I'm Surya AKP 👋
+  <a href="https://www.linkedin.com/in/surya-akp"><img align="right" src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" width="38" height="38" /></a>
+  <a href="mailto:akpsurya20@gmail.com"><img align="right" src="https://skillicons.dev/icons?i=gmail" title="Email" width="38" height="38" /></a>
+</h1>
 
-🎓 Electronics & Communication Engineering Student | 🤖 Embedded Systems | 🧠 Intelligent Systems
+<h3>Electronics & Communication Engineering Student | Embedded Systems | IoT | Intelligent Systems</h3>
 
----
+## 🚀 What I'm up to
 
-🔗 🚀 About Me
-
-I am an Electronics & Communication Engineering student passionate about the convergence of hardware, software, and intelligent systems.
-
-My interests span embedded systems, IoT, artificial intelligence, web technologies, and data-driven applications. I enjoy transforming concepts into practical solutions through engineering projects that bridge the physical and digital worlds.
-
-Currently, I am focused on building a strong engineering foundation while developing projects that showcase problem-solving, system design, technical curiosity, and continuous learning.
-
-- 🔬 Interested in Embedded Systems, IoT, and Intelligent Technologies
-- 🧠 Passionate about building practical, real-world engineering solutions
-- 📚 Continuously learning through projects, certifications, and experimentation
-- 🌱 Expanding technical knowledge across software, electronics, and automation
-- 🎯 Focused on developing skills that combine hardware, software, and data-driven decision making
+- 🔬 **Currently Exploring:** Embedded Systems, IoT, Artificial Intelligence, and Intelligent Control Systems.
+- 🤖 **Building:** Arduino-based embedded projects, sensor-driven applications, and modern web applications.
+- 📚 **Currently Learning:** Data Structures & Algorithms, Web Development, Embedded Programming, and AI fundamentals.
+- 🏆 **Highlights:** NPTEL Elite (Python), NASSCOM FutureSkills Prime Gold (94%), Generative AI certification by NxtWave.
+- 🎓 **Campus Involvement:** Technical project exhibitions, IEEE WIE events, and national-level techfest participation.
 
 ---
 
-🔗 💡 Currently Working On
+## 🏅 Certifications & Achievements
 
-- 🛠️ Embedded Systems & Arduino Development
-- 🌐 Web Development Fundamentals
-- 🧩 Data Structures & Problem Solving
-- 📡 IoT and Sensor-Based Applications
-- 🤖 Artificial Intelligence & Intelligent Technologies
-- 📚 Continuous Technical Learning & Project Building
+- 🥇 **NPTEL – The Joy of Computing Using Python**
+  - Elite Certification • IIT Madras • Jan – Apr 2026
 
----
+- 🥇 **NASSCOM FutureSkills Prime – Digital 101**
+  - Gold Category (94%) • Mar 2026
 
-🔗 🎓 Education
+- 🤖 **NxtWave – AI for Students: Build Your Own Generative AI Model**
+  - Jan 2025
 
-Bachelor of Technology (B.Tech)
-Electronics & Communication Engineering
+- 🎤 **INQUA'25 National Level Techfest**
+  - Project Showcase Participant
 
----
-
-🔗 🏆 Certifications & Achievements
-
-🥇 Technical Certifications
-
-NPTEL — The Joy of Computing Using Python
-
-Elite Certification | IIT Madras | Jan – Apr 2026
-
-- Successfully completed a 12-week NPTEL course in Python Programming
-- Strengthened fundamentals in programming, computational thinking, and problem-solving
-
-NASSCOM FutureSkills Prime — Digital 101
-
-Gold Category (94%) | Mar 2026
-
-- Industry-oriented program covering digital technologies, cybersecurity, web fundamentals, and emerging technologies
-
-NxtWave — AI for Students: Build Your Own Generative AI Model
-
-Jan 2025
-
-- Hands-on exposure to Generative AI concepts and machine learning fundamentals
-
-🎤 Technical Events & Participation
-
-INQUA'25 National Level Techfest
-
-📍 College of Engineering Trikaripur | Oct 2025
-
-- Project showcase participant
-- Contributed to organizing a national-level technical festival
-
-IEEE WIE AG Talk Session
-
-🎙️ Mar 2026
-
-- Participated in the professional development session:
-  "Your Seat at the Table: Confidence, Growth & Career Success"
+- 👩‍💻 **IEEE WIE AG Professional Session**
+  - "Your Seat at the Table: Confidence, Growth & Career Success"
 
 ---
 
-🔗 🛠 Tech Stack
+## 🚀 Featured Projects
 
-👨‍💻 Languages
+### 📡 Arduino Mini Radar System
 
-- C
-- Python
-- HTML
-- CSS
-- JavaScript
-
-⚙️ Tools & Platforms
-
-- Git
-- GitHub
-- VS Code
-- Arduino IDE
-- Google Colab
-
-🎯 Areas of Interest
-
-- Embedded Systems
-- Internet of Things (IoT)
-- Artificial Intelligence
-- Functional Safety
-- Automotive Technology
-- Data Analytics
-- Intelligent Control Systems
-
----
-
-🔗 🔍 Featured Projects
-
-🌦 Weather Dashboard
-
-Real-time weather insights powered by API integration.
-
-A responsive web application that retrieves and displays live weather information through API connectivity.
-
-Highlights
-
-- 🌡️ City-based weather search
-- 💧 Live humidity tracking
-- 📈 Real-time temperature monitoring
-- 📱 Responsive user interface
-- 🔗 REST API integration using OpenWeather
-
-Tech Stack: HTML, CSS, JavaScript, OpenWeather API
-
----
-
-### ⚙️ NUM_CONVERT
-Real-time multi-base number system converter with instant cross-base translation.
+An Arduino-powered radar-inspired system capable of detecting nearby objects using ultrasonic sensing and visualizing them through Processing.
 
 **Highlights**
-- 🔢 Supports Hexadecimal, Decimal, Octal, Binary
-- ⚡ Real-time conversion across all bases
-- 📋 One-click copy to clipboard
-- 🌓 Dark & Light theme toggle
-- 📱 Responsive design
-
-**Tech Stack:** HTML, CSS, JavaScript
-
-🔗 [Live Demo on CodePen](https://codepen.io/suryaakp/pen/rajVdYj) | [Source Code](https://github.com/akpsurya20-lgtm/num-convert)
----
-
-📡 Arduino Mini Radar System
-
-Detecting, tracking, and visualizing objects through embedded technology.
-
-A radar-inspired object detection system built using Arduino Uno, ultrasonic sensing, and servo motor control.
-
-Highlights
-
 - 🎯 Real-time object detection
-- 📡 Angular scanning mechanism
-- 📏 Distance measurement using ultrasonic sensing
-- 🖥️ Position visualization through Processing
+- 📏 Distance measurement
+- 📡 Servo-based angular scanning
+- 🖥️ Live visualization
 
-Tech Stack: Arduino Uno, C, Ultrasonic Sensor, Servo Motor, Processing
-
----
-
-🔗 🎯 What I'm Building Toward
-
-- 🚀 Competitive engineering internships
-- 🔬 Advanced embedded and intelligent systems projects
-- 🎓 Higher studies and research opportunities in Germany
-- 🏭 A career at the intersection of electronics, software, and intelligent technologies
+**Tech Stack:** Arduino Uno • C • Ultrasonic Sensor • Servo Motor • Processing
 
 ---
 
-🔗 📈 GitHub Journey
+### 🌦 Weather Dashboard
 
-📚 Learning continuously
-🔨 Building publicly
-🚀 Improving with every project
-🌱 Expanding technical depth one project at a time
+A responsive weather application powered by OpenWeather API providing live weather information.
 
-This portfolio is actively evolving with new projects, certifications, experiments, and engineering challenges.
+**Highlights**
+- 🌡️ Live temperature
+- 💧 Humidity monitoring
+- 🔍 City-based search
+- 📱 Responsive interface
 
----
-
-🔗 🤝 Connect With Me
-
-📧 Email: akpsurya20@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/surya-akp
+**Tech Stack:** HTML • CSS • JavaScript • OpenWeather API
 
 ---
 
-🔗 🌱 Philosophy
+### 🔢 NUM_CONVERT
 
-I believe engineering excellence is built through curiosity, consistency, and hands-on learning. Every project is an opportunity to refine technical skills, strengthen problem-solving abilities, and better understand how technology interacts with the world around us.
+A real-time multi-base number system converter supporting instant conversions.
 
-«"Great engineers aren't built in a semester. They're built project by project, failure by failure, and improvement by improvement."»
+**Highlights**
+- 🔢 Binary, Octal, Decimal & Hexadecimal
+- ⚡ Instant conversion
+- 📋 Copy to clipboard
+- 🌓 Dark & Light themes
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+🔗 **Live Demo:** https://codepen.io/suryaakp/pen/rajVdYj
+
+🔗 **Source Code:** https://github.com/akpsurya20-lgtm/num-convert
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+<table width="100%">
+<tr>
+
+<td align="center" valign="top">
+
+<h3>Languages</h3>
+
+<nobr>
+<a href="https://en.cppreference.com/w/c" title="C"><img src="https://skillicons.dev/icons?i=c" width="42"></a>
+<a href="https://python.org" title="Python"><img src="https://skillicons.dev/icons?i=python" width="42"></a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="42"></a>
+<a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html" width="42"></a>
+<a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?i=css" width="42"></a>
+</nobr>
+
+</td>
+
+<td align="center" valign="top">
+
+<h3>Embedded & IoT</h3>
+
+<nobr>
+<a href="https://www.arduino.cc/" title="Arduino"><img src="https://skillicons.dev/icons?i=arduino" width="42"></a>
+<a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git" width="42"></a>
+<a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="42"></a>
+</nobr>
+
+</td>
+
+<td align="center" valign="top">
+
+<h3>Tools & Platforms</h3>
+
+<nobr>
+<a href="https://code.visualstudio.com/" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="42"></a>
+<a href="https://colab.research.google.com/" title="Google Colab"><img src="https://skillicons.dev/icons?i=googlecolab" width="42"></a>
+<a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="42"></a>
+</nobr>
+
+</td>
+
+</tr>
+</table>
+</div>
+
+---
+
+## 🎯 Interests
+
+- 🤖 Embedded Systems
+- 📡 Internet of Things (IoT)
+- 🧠 Artificial Intelligence
+- 🚗 Automotive Technology
+- 🛡 Functional Safety
+- 📊 Data Analytics
+- ⚙️ Intelligent Control Systems
+
+---
+
+## 🎯 Goals
+
+- 🚀 Secure engineering internships.
+- 🔬 Build impactful embedded and intelligent systems projects.
+- 🎓 Pursue higher studies and research opportunities in Germany.
+- 🏭 Build a career at the intersection of embedded systems, AI, and automotive technologies.
+
+---
+
+## 📈 GitHub Journey
+
+- 📚 Learning continuously.
+- 🛠️ Building practical engineering projects.
+- 🚀 Improving one project at a time.
+- 🌱 Expanding technical depth through experimentation.
+
+Every repository reflects another step in my engineering journey.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akpsurya20-lgtm&theme=github_dark" height="170"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akpsurya20-lgtm&layout=compact&theme=github_dark"/>
+</p>
+
+---
+
+> *"Great engineers aren't built in a semester. They're built project by project, experiment by experiment, and improvement by improvement."*
